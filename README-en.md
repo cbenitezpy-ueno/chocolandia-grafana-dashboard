@@ -1,5 +1,7 @@
 # Building a Beautiful Homelab Dashboard with Grafana: A HomeDash-Inspired Design
 
+![Full Dashboard](screenshots/dashboard-full.png)
+
 ## Introduction
 
 When it comes to monitoring a homelab Kubernetes cluster, the default Grafana dashboards get the job done, but they often feel utilitarian and lack visual appeal. Inspired by the popular HomeDash v3 design, I set out to create a custom dashboard that's both informative and visually stunning.
